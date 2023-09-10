@@ -12,7 +12,7 @@ function App() {
       <a href="/">Paris </a>
       <a href="/">Singapore </a>
       <Weather/>
-        <div><a href="/https://github.com/AnastasiaCodeGirl/my-react-app">Open-source code</a> by Anastasiia Shumeiko from Amsterdam, the Netherlands</div>
+        <div><a href="https://github.com/AnastasiaCodeGirl/my-react-app">Open-source code</a> by Anastasiia Shumeiko from Amsterdam, the Netherlands</div>
       </div>
       <footer>
       </footer>
